@@ -1,0 +1,2 @@
+# brisque-python
+Implementação BRISQUE
